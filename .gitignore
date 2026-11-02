@@ -1,0 +1,30 @@
+# Gradle / Android
+.gradle/
+**/build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android outputs
+*.apk
+*.aab
+*.ap_
+
+# Signing material and secrets
+*.jks
+*.keystore
+keystore.properties
+*.pem
+*.p12
+.env
+.env.*
+!.env.example
+
+# Logs and local state
+*.log
+.DS_Store
+Thumbs.db
