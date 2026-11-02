@@ -1,0 +1,3 @@
+<resources>
+    <string name="a11y_desc">Lets Hermes Bridge read the screen and perform taps/typing in allowed apps on your command, via a local-only API.</string>
+</resources>
